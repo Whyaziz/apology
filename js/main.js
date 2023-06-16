@@ -124,3 +124,7 @@
     
 })(jQuery);
 
+function maafin() {
+    alert("Terima Kasih Sayangg");
+  }
+
